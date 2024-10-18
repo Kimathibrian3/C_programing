@@ -1,3 +1,8 @@
+/*
+Author Brian kimathi 
+Reg CT102/G/23094/24
+Date 2024/10/5
+*/
 #include<stdio.h>
 
 int main(){
