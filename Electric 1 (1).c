@@ -1,3 +1,8 @@
+/*
+Author Brian kimathi 
+Reg CT102/G/23094/24
+Date 2024/10/17
+*/
 #include <stdio.h>
 
 // Function to calculate the electricity bill
