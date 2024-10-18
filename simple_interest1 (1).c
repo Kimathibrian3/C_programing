@@ -1,7 +1,7 @@
 /*
 Author Brian kimathi 
 Reg CT102/G/23094/24
-Date 2023/9/26
+Date 2024/10/4
 */
 // processer directive_scanf
 
